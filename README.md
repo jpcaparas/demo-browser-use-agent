@@ -8,7 +8,13 @@ You can learn more about Browser use on its [GitHub repository](https://github.c
 
 # Steps
 
+(Note: YMMV as these changes were done on macOS)
+
 ## 1. Activate Virtual Environment
+```sh
+python3 -m venv venv
+```
+
 On Windows:
 ```sh
 .\venv\Scripts\activate
